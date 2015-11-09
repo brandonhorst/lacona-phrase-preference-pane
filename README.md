@@ -1,2 +1,2 @@
-# lacona-phrase-application
-Lacona Phrase that representing applications (to be supplemented)
+# lacona-phrase-preference-pane
+Lacona Phrase that representing preference panes (to be supplemented)
