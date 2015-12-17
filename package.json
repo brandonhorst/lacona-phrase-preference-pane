@@ -1,6 +1,6 @@
 {
   "name": "lacona-phrase-preference-pane",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lacona Phrase for preference panes (to be extended)",
   "main": "lib/index.js",
   "scripts": {
